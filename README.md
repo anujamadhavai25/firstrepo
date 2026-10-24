@@ -1,4 +1,4 @@
 # firstrepo
-This is my first repositary
+This is my first Git Repositary.
 <br>
-author - anuja madhavai
+Author - Anuja Madhavai
